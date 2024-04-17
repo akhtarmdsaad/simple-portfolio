@@ -1,2 +1,2 @@
 # resume-django
-A simple resume project developed inn django
+A simple resume project developed in django
