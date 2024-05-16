@@ -48,3 +48,6 @@ Open browser and type `localhost:8000` in the url bar.
 
 ## Screenshots
 ![](screenshots/pasted_image_0.png)
+![](screenshots/pasted_image_1.png)
+![](screenshots/pasted_image_2.png)
+![](screenshots/pasted_image_3.png)
