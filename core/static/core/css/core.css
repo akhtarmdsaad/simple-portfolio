@@ -1,0 +1,42 @@
+.st-font {
+    font-family: 'Satisfy', cursive;
+}
+
+html,body{
+    height:100%;
+}
+
+.container-fluid{
+    min-height: 100%;
+}
+
+/* services icon color  */
+
+.i-colo {
+    color:chartreuse;
+}
+
+a .i-colo:hover{
+    color:red;
+}
+
+/* services subtitle color  */
+
+.ss-colo{
+    color:yellow;
+}
+
+.nav-link{
+    color:white;
+}
+
+.nav-link:hover{
+    color:orange;
+}
+
+
+.nav-link.active{
+    color:black;
+    font-weight:bold;
+    background-color: orange;
+}
